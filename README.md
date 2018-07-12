@@ -1,2 +1,1 @@
-# Sapient-Internship
-Exploring neural networks for sequential data
+Exploring Deep Learning Models for Sequential Data
